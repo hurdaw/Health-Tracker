@@ -1,0 +1,10 @@
+/* CSS */
+#temperature {
+    border: 2px solid #E01F15; /* Màu sắc của khung */
+    padding: 10px; /* Khoảng cách giữa nội dung và khung */
+    border-radius: 5px; /* Bo tròn các góc */
+    background-color: #F0F0F0; /* Màu nền */
+    font-size: 18px; /* Kích thước chữ */
+    width: fit-content; /* Kích thước tự động theo nội dung */
+    margin: 20px; /* Khoảng cách xung quanh */
+}
